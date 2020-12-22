@@ -8,4 +8,4 @@
 - The Jupyter notebook is present in html, ipynb and pdf form
 - The PDF conversion is not as good because the default jupyter export to pdf was not working on my computer
 - The code for Website is [here](https://github.com/PulakIIIT/Website-Twitter)
-- The link for the hosted website is [this](https://website-twitter-4zt3ehg4g.vercel.app)
+- The link for the hosted website is [this](https://website-twitter.pulakiiit.vercel.app)
