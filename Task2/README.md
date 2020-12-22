@@ -5,3 +5,6 @@
 	- userfollowers2.zip - Data related to followers of a subset of users who tweeted
 	- userfriends2.zip - Data related to friends of a subset of users who tweeted
 	- usertweets.zip - 20 tweets from past users
+- The Jupyter notebook is present in html, ipynb and pdf form
+- The PDF conversion is not as good because the default jupyter export to pdf was not working on my computer
+

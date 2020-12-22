@@ -2,7 +2,10 @@
 
 - Code:  Task3-a-FinalSubmission.ipynb
 - Mongo-Db-Collection: mongo-dumps folder
-
+<br/>
+To run the code change the filepath to required file path in first cell and then run all the cells in the notebook
+<br/>
+The final table is stored as a 2d list in a collection in the mongodb database
 
 Notes:
 - I was able to extract tables from 3 of the pdfs well except the with name EICHERMOT.pdf 
